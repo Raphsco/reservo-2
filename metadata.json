@@ -1,0 +1,7 @@
+{
+  "name": "Reservo 2",
+  "description": "The universal booking platform for all services. Hybrid discovery, integrated loyalty wallet, and AI-powered scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
